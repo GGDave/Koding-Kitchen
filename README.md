@@ -9,3 +9,5 @@ recipes based on food cravings
 
 ## Collaborator
 Developers: David Flores, Bill Hamilton, Breeann Bond, Tifni Shroll
+
+![](./images/NewKodeKitchen.png/)
